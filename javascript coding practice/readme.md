@@ -46,7 +46,6 @@ console.log(null == undefined);
 
 [17]Write a Program to print Fibonacci sequence up to n terms?
 
-
 [18]Write a Program to find factorial of a number?
 
 [19]Calculate the Power of a Number in JavaScript?
@@ -113,19 +112,8 @@ console.log(null == undefined);
 
 [50]Get Unique Characters from a String in JavaScript?
 
+[51] Write a JavaScript program to find the largest element in a nested array.
 
+[52] Implement a deep clone function in JavaScript that creates a copy of a nested object or array without any reference to the original.
 
-
-
-[51] Write a JavaScript program to find the largest element in a nested array.  
-
-[52] Implement a debounce function in JavaScript that limits the frequency of a function’s execution when it’s called repeatedly within a specified time frame. 
-
-[53] Implement a deep clone function in JavaScript that creates a copy of a nested object or array without any reference to the original.  
-
-[54] Implement a function that flattens a nested array in JavaScript, converting it into a single-level array.  
-  
-
-
-
-
+[53] Implement a function that flattens a nested array in JavaScript, converting it into a single-level array.
